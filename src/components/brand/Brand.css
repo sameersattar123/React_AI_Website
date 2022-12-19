@@ -1,0 +1,17 @@
+.img_design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.images {
+        flex: 1;
+        max-width: 150px;
+        min-width: 120px;
+        margin: 1rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
